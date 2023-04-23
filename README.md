@@ -1,2 +1,3 @@
 # java_package_to_class
 根据包路径解析返回class,一般用于扫描注解
+代码是根据ChatGPT生成的代码修改后的结果
